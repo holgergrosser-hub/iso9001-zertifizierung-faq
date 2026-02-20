@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iso9001.info/sitemap.xml
