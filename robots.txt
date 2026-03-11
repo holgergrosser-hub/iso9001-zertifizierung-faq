@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://iso9001.info/sitemap.xml
+Sitemap: https://iso9001-zertifizierung-faq.iso9001.info/sitemap.xml
